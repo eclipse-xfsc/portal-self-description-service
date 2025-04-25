@@ -1,0 +1,9 @@
+check-keycloak-token: false
+spring.datasource.url: jdbc:postgresql://xxx/xxx
+spring.datasource.username: xxx
+spring.datasource.password: xxx
+keycloak.auth-server-url: xxx
+keycloak.realm: xxx
+keycloak.resource: xxx
+int.keycloak.uri: xxx
+ext.keycloak.client_secret: xxx
